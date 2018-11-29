@@ -1,0 +1,52 @@
+<B class="head">
+</B>
+<TABLE width="650" border="0" cellspacing="0" cellpadding="10">
+  <TR>
+    <TD width="383"><B class="head">Search results for <FONT COLOR="#547193">'$&(WORDS)'</FONT></B>
+
+      <FORM method="get" action="$(CGI)">
+        <FONT size="-1">
+        <INPUT type="hidden" name="config" value="$&(CONFIG)">
+        <INPUT type="hidden" name="restrict" value="$&(RESTRICT)">
+        <INPUT type="hidden" name="exclude" value="$&(EXCLUDE)">
+Match: $(METHOD)
+Sort by: $(SORT)
+<BR>
+        <BR>
+
+        <STRONG>Refine search:</STRONG><BR>
+
+        <INPUT type="text" size="30" name="words" value="$&(WORDS)">
+        &nbsp;&nbsp;
+        <INPUT type="submit" value="Search">
+        </FONT>
+      </FORM>
+    </TD>
+    <TD width="267" valign="bottom" height="58">&nbsp;
+      </TD>
+  </TR>
+  
+</TABLE>
+
+<TABLE width="650" border="0" cellspacing="0" cellpadding="5">
+        
+  <TR>
+          
+    <TD bgcolor="#666666"><STRONG><FONT color="#CCCCCC">Documents <FONT color="#FFFFFF">$(FIRSTDISPLAYED) - $(LASTDISPLAYED)</FONT> of</FONT> <FONT color="#CCCCCC">$(MATCHES)</FONT> <FONT color="#CCCCCC">matches. </FONT></STRONG><BR>
+
+          </TD>
+  </TR>
+        
+  <TR>
+          
+    <TD bgcolor="#CCCCCC">
+            
+      The more <IMG src="/htdig/star.gif" alt="*">'s indicates a better match.</TD>
+  </TR>
+      
+</TABLE>
+<BR>
+$(HTSEARCH_RESULTS)
+$(PAGEHEADER)
+$(PREVPAGE) $(PAGELIST) $(NEXTPAGE)
+
