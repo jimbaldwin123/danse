@@ -1,7 +1,0 @@
-MaxWorldwide is the leading independent company in online advertising sales and representation. MaxWorldwide consists of two divisions - MaxOnline and MaxCreative. 
-<P>MaxOnline creates innovative advertising solutions that enable marketers and web publishers to build valuable relationships with consumers and businesses. MaxOnline specializes in media sales across a portfolio of top brand web sites and targeted channels with reach competitive to the leading web portals, as well as strategic marketing and creative services that focus on maximum results. MaxOnline's direct marketing solutions include co-registration, conversion optimized broad reach campaigns, integrated site partnerships, online remarketing, email and opt-in list management.</P>
-<P>MaxCreative is MaxWorldwide's in-house design group that has a diverse background in online and offline creative development. MaxCreative provides clients with well-crafted, insightful solutions that generate measurable results.</P>
-<P>MaxWorldwide began as L90 in 1997 and in July of 2002 acquired DoubleClick Media and changed its name to MaxWorldwide. MaxWorldwide trades on the OTC under the symbol: <STRONG>MAXW</STRONG>.</P>
-<P>Headquartered in New York City, MaxWorldwide has additional offices in Miami, Chicago, Los Angeles, San Francisco, Seattle and Greenwich, CT. </P>
-<P>&nbsp;</P>
-<P>&nbsp;
